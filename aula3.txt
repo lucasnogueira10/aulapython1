@@ -1,0 +1,22 @@
+um = int(input("Primeiro numero: "))
+dois = int(input("Segundo numero : "))
+tres = int(input("Terceiro numero: "))
+
+maior = um 
+
+if ( dois > maior):
+	maior = dois
+if ( tres > maior):
+	maior = tres
+
+print (" O maior numero é: " ,maior)
+
+
+menor = um
+
+if ( dois < menor):
+	menor = dois 
+if ( tres < menor):
+	menor = tres
+
+print (" O menor numero é: ",menor)
