@@ -1,0 +1,10 @@
+#Exemplo 4
+break_executando = True
+
+print("Exemplo 4:")
+
+if(break_executando):
+    print("else")
+
+for letras in 'eXscript':
+    print("Ciclo: ", letras)

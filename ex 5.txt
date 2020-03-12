@@ -1,0 +1,4 @@
+print('Exemplo 5:')
+linguagens = ['c', 'pythom', 'lua', 'cobol', 'pascal', 'c++']
+for lingua in linguagens:
+    print('linguagens contida na variavel lingua nesse ciclo', lingua)
